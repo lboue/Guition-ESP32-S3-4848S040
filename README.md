@@ -58,7 +58,8 @@
 
 ```bash
 pip install esphome==2025.5.2
-esphome run main.yaml --device=xxx
+esphome run main.yaml --device COM9
+esphome run main.yaml --device OTA
 ```
 
 
