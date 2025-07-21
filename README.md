@@ -56,6 +56,10 @@
 <img width="600px" src="/doc/img/screen13.png">
 <img width="200px" src="/doc/img/screen14.png">
 
+```bash
+pip install esphome==2025.5.2
+```
+
 
 > 📹 **Video [instruction](https://youtu.be/HYN_2hvcbes?si=JfYQH4vCuFlr8Q9r)**
 
