@@ -58,6 +58,7 @@
 
 ```bash
 pip install esphome==2025.5.2
+esphome run main.yaml --device=xxx
 ```
 
 
